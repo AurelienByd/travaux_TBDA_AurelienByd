@@ -18,11 +18,11 @@
                 <li>Lions</li>
                 <li>Tigres</li>
                 <li>Chats</li>
-            </ul>
                 <ul>
                     <li>Chats sauvages</li>
                     <li>Chats domestiques</li>
                 </ul>
+            </ul>
         </li>
         <li>Chevaux</li>
     </ul>
