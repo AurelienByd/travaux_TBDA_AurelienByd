@@ -5,6 +5,6 @@
     <title>liens</title>
 </head>
 <body>
-    <a href="page2.html" title="Page suivante">Cliquez ici</a>
+    <a href="Chapitre1/index.html" title="Page suivante">Cliquez ici</a>
 </body>
 </html>
