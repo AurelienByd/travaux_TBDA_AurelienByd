@@ -6,6 +6,6 @@
     <h2>1</h2>
 </head>
 <body>
-    <a href="sousrepertoire/lienspage2" title="Ouvrir une page située dans un sous-répertoire">Cliquez ici</a>
+    <a href="../repertoire/lienspage2" title="Ouvrir une page située dans un répertoire externe">Cliquez ici</a>
 </body>
 </html>
