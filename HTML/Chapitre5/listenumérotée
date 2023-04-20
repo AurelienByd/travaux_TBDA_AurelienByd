@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Liste numérotée</title>
+</head>
+<body>
+    <ol type="A">
+        <li>Souris</li>
+        <li>Chiens
+            <ol type="a">
+                <li>Bassets</li>
+                <li>Caniches</li>
+            </ol>
+        </li>
+        <li>Félins
+            <ol type="1">
+                <li>Lions</li>
+                <li>Tigres</li>
+                <li>Chats</li>
+            </ol>
+            <ol type="I">
+                <li>Chats sauvages</li>
+                <li>Chats domestiques</li>
+            </ol>
+        </li>
+        <li>Chevaux</li>
+    </ol>
+</body>
+</html>
