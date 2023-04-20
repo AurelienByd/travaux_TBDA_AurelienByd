@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>liens</title>
+</head>
+<body>
+    <a href="page2.html" title="Page suivante">Cliquez ici</a>
+</body>
+</html>
