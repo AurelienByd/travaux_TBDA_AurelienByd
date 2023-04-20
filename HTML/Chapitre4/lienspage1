@@ -7,6 +7,15 @@
 </head>
 <body>
     <a href="#lacible" title="Aller à la cible">Aller au paragraphe qui parle de bla bla bla</a>
+    <wbr>
+    <wbr>
+    <wbr>
+    <wbr>
+    <wbr>
+    <wbr>
+    <wbr>
+    <wbr>
+    <wbr>
     <p id="lacible">bla bla bla</p>
 </body>
 </html>
