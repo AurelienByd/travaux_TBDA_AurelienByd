@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Liste non classée</title>
+</head>
+<body>
+    <ul>
+        <li>Souris</li>
+        <li>Chiens
+            <ul>
+                <li>Bassets</li>
+                <li>Caniches</li>
+            </ul>
+        </li>
+        <li>Félins
+            <ul>
+                <li>Lions</li>
+                <li>Tigres</li>
+                <li>Chats</li>
+            </ul>
+                <ul>
+                    <li>Chats sauvages</li>
+                    <li>Chats domestiques</li>
+                </ul>
+        </li>
+        <li>Chevaux</li>
+    </ul>
+</body>
+</html>
