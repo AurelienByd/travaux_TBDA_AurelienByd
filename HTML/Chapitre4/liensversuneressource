@@ -6,6 +6,6 @@
     <h2>4</h2>
 </head>
 <body>
-    <a href="HTML5-resume-fr.pdf" title="HTML5 resume fr">Télécharger la notice (PDF)</a>
+    <a href="HTML5-resume-fr.pdf" title="HTML5 resume fr" download="HTML5-resume-fr.pdf">Télécharger la notice (PDF)</a>
 </body>
 </html>
