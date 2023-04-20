@@ -6,6 +6,6 @@
     <h2>2</h2>
 </head>
 <body>
-    <a href="lienspage1" title="Page suivante">Cliquez ici</a>
+    <a href="lienspage1#lacible" title="Aller à une cible sur une autre page">Cliquez ici</a>
 </body>
 </html>
