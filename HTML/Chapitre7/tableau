@@ -4,7 +4,7 @@
         <caption>Tableau</caption>
         <thead>
             <tr>
-                <th>Jours/Mois</th>
+                <th>Jours\Mois</th>
                 <th>Janvier</th>
                 <th>Février</th>
                 <th>Mars</th>
@@ -12,13 +12,13 @@
         </thead>
         <tbody>
             <tr>
-                <td>Lundi</td>
+                <th>Lundi</th>
                 <td>X</td>
                 <td>X</td>
                 <td>X</td>
             </tr>
             <tr>
-                <td>Mardi</td>
+                <th>Mardi</th>
                 <td>X</td>
                 <td>X</td>
                 <td>X</td>
@@ -26,7 +26,7 @@
         </tbody>
         <tfoot>
             <tr>
-                <td>Total</td>
+                <th>Total</th>
                 <td>X</td>
                 <td>X</td>
                 <td>X</td>
