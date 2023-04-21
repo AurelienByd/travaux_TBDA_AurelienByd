@@ -3,8 +3,12 @@
     <table>
         <caption>Tableau</caption>
         <tr>
-            <td>
-            </td>
+            <td>bla bla</td>
+            <td>bla bla</td>
+        </tr>
+        <tr>
+            <td>bla bla</td>
+            <td>bla bla</td>
         </tr>
     </table>
 </html>
