@@ -5,27 +5,5 @@
         <thead>
             <td colspan="4">Ventes du 1<sup>er</sup> trimestre</td>
         </thead>
-        <tbody>
-            <tr>
-                <th>Lundi</th>
-                <td>X</td>
-                <td>X</td>
-                <td>X</td>
-            </tr>
-            <tr>
-                <th>Mardi</th>
-                <td>X</td>
-                <td>X</td>
-                <td>X</td>
-            </tr>
-        </tbody>
-        <tfoot>
-            <tr>
-                <th>Total</th>
-                <td>X</td>
-                <td>X</td>
-                <td>X</td>
-            </tr>
-        </tfoot>
     </table>
 </html>
