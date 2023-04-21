@@ -3,12 +3,7 @@
     <table>
         <caption><b><u>Tableau</u></b></caption>
         <thead>
-            <tr>
-                <th>Jours\Mois</th>
-                <th>Janvier</th>
-                <th>Février</th>
-                <th>Mars</th>
-            </tr>
+            <td colspan="4">Ventes du 1<sup>er</sup> trimestre</td>
         </thead>
         <tbody>
             <tr>
