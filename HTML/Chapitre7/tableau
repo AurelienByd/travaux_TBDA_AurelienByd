@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
     <table>
-        <caption>Tableau</caption>
+        <caption><b><u>Tableau</u></b></caption>
         <thead>
             <tr>
                 <th>Jours\Mois</th>
