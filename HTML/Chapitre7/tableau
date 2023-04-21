@@ -2,13 +2,35 @@
 <html lang="fr">
     <table>
         <caption>Tableau</caption>
-        <tr>
-            <td>bla bla</td>
-            <td>bla bla</td>
-        </tr>
-        <tr>
-            <td>bla bla</td>
-            <td>bla bla</td>
-        </tr>
+        <thead>
+            <tr>
+                <th>Jours/Mois</th>
+                <th>Janvier</th>
+                <th>Février</th>
+                <th>Mars</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Lundi</td>
+                <td>X</td>
+                <td>X</td>
+                <td>X</td>
+            </tr>
+            <tr>
+                <td>Mardi</td>
+                <td>X</td>
+                <td>X</td>
+                <td>X</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td>Total</td>
+                <td>X</td>
+                <td>X</td>
+                <td>X</td>
+            </tr>
+        </tfoot>
     </table>
 </html>
