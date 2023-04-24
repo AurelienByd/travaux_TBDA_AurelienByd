@@ -22,10 +22,13 @@
         </fieldset>
         <fieldset>
         <legend>Votre demande</legend>
-        <label for="sujet">Sujet* : </label><select name="Veuillez séléctionner un sujet">
-            <option>Mes commandes</option>
-            <option>Question sur un produit</option>
-            <option>Réclamation</option>
-            <option>Autres</option>
+        <label for="sujet">Sujet* : </label><select required name="veuillez séléctionner un sujet" size="5">
+            <option value="" selected>Veuillez séléctionner un sujet</option>
+            <option value="Mes commandes">Mes commandes</option>
+            <option value="Question sur un produit">Question sur un produit</option>
+            <option value="Réclamation">Réclamation</option>
+            <option value="Autres">Autres</option>
         </select><br>
-        <label for="votre question">Votre question* : </label><textarea name="votre question" rows="2"></textarea>
+        <label for="votre question">Votre question* : </label><textarea required name="votre question" rows="2"></textarea>
+        </fieldset>
+        
