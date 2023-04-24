@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>formulaire</title>
+</head>
+<body>
+    <p>* Ces zones sont obligatoires</p>
+    <form action="http://bienvu.net/script.php" method="get" id="formulaire">
+        
