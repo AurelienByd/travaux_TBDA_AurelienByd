@@ -8,6 +8,5 @@
     <p>* Ces zones sont obligatoires</p>
     <form action="http://bienvu.net/script.php" method="get" id="formulaire">
         <p>Vos coordonnées</p>
-        <input type="text" name="Votre nom* required">
-        <input type="text" name="Votre prénom* required">
-        
+        <input for="Votre nom" type="text" name="Votre nom* required"><br>
+        <input for="Votre prénom" type="text" name="Votre prénom* required"><br>
