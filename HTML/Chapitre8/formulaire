@@ -18,6 +18,14 @@
         <label for="code postal">Code postal* : </label><input type="text" name="Code postal" required><br>
         <label for="adresse">Adresse : </label><input type="text" name="adresse"><br>
         <label for="ville">Ville : </label><input type="text" name="ville"><br>
-        <label for="email">Email* : </label><input type="text" name="email" required title="dave.loper@afpa.fr">
+        <label for="email">Email* : </label><input type="text" placeholder="dave.loper@afpa.fr" name="email" required title="email">
         </fieldset>
-        
+        <fieldset>
+        <legend>Votre demande</legend>
+        <label for="sujet">Sujet* : </label><select name="Veuillez séléctionner un sujet" size="4">
+            <option>Mes commandes</option>
+            <option>Question sur un produit</option>
+            <option>Réclamation</option>
+            <option>Autres</option>
+        </select>
+        <label for="votre question">Votre question* : </label><textarea name="votre question" rows="2"></textarea>
