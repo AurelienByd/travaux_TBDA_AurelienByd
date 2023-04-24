@@ -20,6 +20,7 @@
         <label for="ville">Ville : </label><input type="text" name="ville"><br>
         <label for="email">Email* : </label><input type="text" placeholder="dave.loper@afpa.fr" name="email" required title="email">
         </fieldset>
+        <br>
         <fieldset>
         <legend>Votre demande</legend>
         <label for="sujet">Sujet* : </label><select required name="veuillez séléctionner un sujet">
@@ -33,7 +34,7 @@
         </fieldset>
         <br>
         <input required type="checkbox" name="accepter" value="accepter">* J'accepte le traitement informatique de ce formulaire</input>
-        <br>
+        <wbr>
         <input type="submit" value="Envoyer">
         <input type="reset" value="Annuler">
     </form>
