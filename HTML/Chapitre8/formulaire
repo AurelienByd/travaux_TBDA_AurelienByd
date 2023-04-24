@@ -32,7 +32,8 @@
         <label for="votre question">Votre question* : </label><textarea required name="votre question" rows="2"></textarea>
         </fieldset>
         <br>
-        <input required type="checkbox" name="accepter" value="accepter">* J'accepte le traitement informatique de ce formulaire</input><wbr>
+        <input required type="checkbox" name="accepter" value="accepter">* J'accepte le traitement informatique de ce formulaire</input>
+        <br>
         <input type="submit" value="Envoyer">
         <input type="reset" value="Annuler">
     </form>
