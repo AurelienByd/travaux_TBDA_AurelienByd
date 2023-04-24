@@ -6,7 +6,7 @@
 </head>
 <body>
     <p>* Ces zones sont obligatoires</p>
-    <form action="http://bienvu.net/script.php" method="get" id="formulaire">
+    <form action="http://bienvu.net/script.php" method="post" id="formulaire">
         <fieldset>
         <legend>Vos coordonnées</legend>
         <label for="nom">Votre nom* : </label><input type="text" name="Votre nom" required><br>
